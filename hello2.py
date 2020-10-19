@@ -1,0 +1,10 @@
+c=int(input ('enter the number1'))
+b=int(input('enter the number2'))
+z=(c+b)
+print(z)
+char= input('enter the string value')
+print(char[0])
+cha=input('enter the the first character of string')[0]
+print(cha)
+result=eval(input('enter the expression'))
+print(result)
